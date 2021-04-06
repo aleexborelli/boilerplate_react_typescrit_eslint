@@ -2,30 +2,6 @@
 
 > Projeto com o intuito de agilizar criação de novas aplicações, fornecendo já a estrutura inicial
 
-<a href="https://github.com/joaovictorpsantos">
-<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
-</a>
-
-<a href="#">
-<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
-</a>
-
-<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
-</a>
-
-<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
-</a>
-
-<a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
-</a>
-
-<a href="https://github.com/joaovictorpsantos/boilerplate_react_typescript/commits/master">
-<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/boilerplate_react_typescript?color=7159c1&style=flat-square">
-</a>
-
 <br/><br/>
 
 <blockquote align="center">
